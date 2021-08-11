@@ -1,0 +1,45 @@
+body
+{
+    background-color:rgb(255, 145, 0);
+    text-align:center;
+    
+}
+#heading
+{
+  font-family:cursive;
+  color:crimson;
+  font-size:50px;
+}
+
+#position
+{
+  font-family:cursive;
+  color:crimson;
+  font-size:35px;
+  
+}
+#Im_fam
+{
+  width:200px;
+  height:300px;
+  border-width:20px;
+  border-color:crimson;
+  border-style:groove;
+}
+#Btn_Update
+{
+    border-width:10px;
+    border-color:crimson;
+    border-style:groove; 
+    color:orangered;
+    width:150px;
+    height:70px;
+    font-size:35px;
+    background-color:palegoldenrod;
+}
+#name
+{
+    font-family:cursive;
+  color:crimson;
+  font-size:35px; 
+}
